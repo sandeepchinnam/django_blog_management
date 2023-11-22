@@ -1,2 +1,3 @@
 # django_blog_management
-# blog_app
+# blog_app 
+#Using Django 
